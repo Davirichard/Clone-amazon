@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img style="width:80%;" src="img/clone-amazon.png" alt="clone-amazon" />
+  <img style="width:80%;" src="imagem/clone-amazon.png" alt="clone-amazon" />
 </div>
 
 🎯 Sobre
